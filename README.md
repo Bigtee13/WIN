@@ -2,3 +2,5 @@
 "# LUCKY-DRAW" 
 "# LUCKY-DRAW" 
 "# SPIN-TO-WIN" 
+"# LUCKY-DRAW" 
+"# WIN" 
